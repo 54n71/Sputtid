@@ -39,13 +39,15 @@ dal = Switch between Dark mode and Light mode (System And Apps)
 
 itb = Change the color of inactive title bars
 
-ccs = Change the color of the system
+ccs = Change the color of the title bars
 
 tskm = Disable or enable Taskmanager
 
 lsi = Disable or enable the login screen background image
 
 lsw = Change the login background
+
+syi/e = Export a file with information of the pc
 
 exit = close the cmd
 
