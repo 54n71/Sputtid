@@ -49,6 +49,8 @@ lsw = Change the login background
 
 syi/e = Export a file with information of the pc
 
+bsod = Activate/Desactivate Manual BSOD (Pressing RCONTROL + BloqDespl)
+
 exit = close the cmd
 
 -----------------------------------------
